@@ -1,24 +1,6 @@
 
 
-<div class="section-two">
-            <div class="info">Some random information.</div>
-            <div class="imgwtxt">
-                <img src="" alt="f1 ferrari">
-                <div class="text">this is some subtext under an illustration or image</div>
-            </div>
-            <div class="imgwtxt">
-                <img src="" alt="f1 ferrari">
-                <div class="text">this is some subtext under an illustration or image</div>
-            </div>
-            <div class="imgwtxt">
-                <img src="" alt="f1 ferrari">
-                <div class="text">this is some subtext under an illustration or image</div>
-            </div>
-            <div class="imgwtxt">
-                <img src="" alt="f1 ferrari">
-                <div class="text">this is some subtext under an illustration or image</div>
-            </div>
-        </div>
+
 
         <div class="section-three">
             <div class="quote">
