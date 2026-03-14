@@ -110,3 +110,33 @@ img {
     text-align: center;
     width: 200px;
 }
+
+/* Section-three */
+
+.section-three {
+    padding: 100px 200px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    flex-wrap: wrap;
+    padding: 0 220px;
+    justify-content: center;
+    align-items: center;
+}
+
+.thor {
+    display: flex;
+    justify-content: end;
+    padding: 0 220px;
+    font-weight: 700;
+}
+
+/* Section-four */
+
