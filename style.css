@@ -129,6 +129,7 @@ img {
     padding: 0 220px;
     justify-content: center;
     align-items: center;
+    min-width: 300px;
 }
 
 .thor {
@@ -136,7 +137,50 @@ img {
     justify-content: end;
     padding: 0 220px;
     font-weight: 700;
+    min-width: 300px;
 }
 
 /* Section-four */
 
+.section-four {
+    display: flex;
+    margin: 50px 200px;
+    padding: 40px 200px;
+    background-color: #3882F6;
+    border-radius: 5px;
+    justify-content: space-between;
+    gap: 30px;
+    min-width: 300px;
+}
+
+.levi {
+    display: flex;
+    flex-direction: column;
+    color: #E5E7EB;
+}
+
+#second {
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100px;
+    margin-top: 5px;
+    color: #E5E7EB;
+    font-weight: 900;
+}
+
+.headtext {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 0;
+    background-color: #1F2937;
+}
